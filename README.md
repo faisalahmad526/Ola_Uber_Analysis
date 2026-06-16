@@ -1,8 +1,8 @@
 # Ola_Uber_Analysis 🚖📊
-Project Overview
+Project Overview : 
 This project aims to analyze and derive insights from ride-booking data collected from a simulated ride-hailing platform. By leveraging SQL queries and Power BI visualizations, this analysis provides key business insights into customer behavior, driver performance, revenue streams, and operational metrics. The findings are critical for improving customer satisfaction, optimizing operations, and driving strategic decisions.
 
-Dataset Description
+Dataset Description : 
 The dataset used in this project includes comprehensive booking and ride-related details with the following key columns:
 
 Date/Time: Timestamp of the booking.
@@ -19,13 +19,13 @@ Booking Value: Total cost of each ride.
 Cancellation Details: Reason and initiator of ride cancellations.
 The dataset also includes key operational metrics such as:
 
-Reasons for incomplete rides.
+Reasons for incomplete rides:
 Ride cancellations by customers and drivers.
 TAT (Turnaround Time) for customers and vehicles.
 Key Insights Derived
 Using SQL queries, we extracted and analyzed the following insights:
 
-Total number of successful bookings.
+Total number of successful bookings:
 Average ride distance for each vehicle type.
 Number of canceled rides by customers and drivers (categorized by reasons like personal or car-related issues).
 Maximum and minimum driver ratings for Prime Sedan rides.
@@ -35,7 +35,7 @@ Average customer rating per vehicle type.
 Power BI Dashboards
 Screenshot 2025-02-09 002859
 
-Dashboard
+Dashboard:
 <img width="988" height="526" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/58dd66c1-3055-4a8a-8641-4964b67a249a" />
 
 
