@@ -1,4 +1,4 @@
-# Ola_Uber_Analysis
+# Ola_Uber_Analysis 🚖📊
 Project Overview
 This project aims to analyze and derive insights from ride-booking data collected from a simulated ride-hailing platform. By leveraging SQL queries and Power BI visualizations, this analysis provides key business insights into customer behavior, driver performance, revenue streams, and operational metrics. The findings are critical for improving customer satisfaction, optimizing operations, and driving strategic decisions.
 
